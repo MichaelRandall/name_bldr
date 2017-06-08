@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This stuff</title>
+<script>
+var fun = (function(){
+	var name = "Mike";
+	
+	return {
+		getName:function(){
+			return name;
+		}
+	};
+})();
+
+function moveOver(){
+	var name = "mike";
+	
+	return {
+		getName:function(){
+			return name;
+		}
+	};
+}
+</script>
+</head>
+<body>
+<div id="main"></div>
+
+<script>
+//var goodFun = fun();
+var app = moveOver();
+console.log(fun.getName());
+console.log(app.getName());
+</script>
+</body>
+</html>
