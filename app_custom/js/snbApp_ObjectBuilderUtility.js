@@ -71,13 +71,13 @@ snbApp.objectbuilderutility = (function () {
 				var theList = listItem.listName;
 				var bigStringOptions = "<option value='0' disabled selected>Select Option</option>";
 				var returnedItems = returnedObj.value;
-				var blkLstCodes = snbApp.sitecodeblacklist.getArrayOfBlacklistedCodes();
+				//var blkLstCodes = snbApp.sitecodeblacklist.getArrayOfBlacklistedCodes();
 				
 				for(var i = 0; i < returnedItems.length; i++){
 				    
 					var item = returnedItems[i];
 					//replace Code with SiteCodePc
-					if (blkLstCodes.indexOf(item.SiteCodePc) === -1) {
+					
 					    //***
 					    //change event type means the user selected a field
                         //***
@@ -105,7 +105,7 @@ snbApp.objectbuilderutility = (function () {
 							
 							snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);	
 						}
-					}
+					
 				}
 					
 			}              
