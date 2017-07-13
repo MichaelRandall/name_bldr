@@ -1,0 +1,43 @@
+﻿#loader_hldr {
+    position:absolute;
+    /*display:block;*/
+    left:0;
+    top:100px;
+    min-width: 900px;
+    min-height:540px;
+    padding:0;
+    background-color:rgba(183, 174, 174,.75);
+    z-index:5;
+}
+#loader {
+    position:relative;
+    width: 600px;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    min-height:10px;
+    padding:0;
+    background-color:rgba(183, 174, 174,.75);
+    border:solid 2px #ffffff;
+    overflow:hidden;
+}
+#progress{
+    position:relative;
+    left:-20px;
+    width: 20px;
+    height: 10px;
+    background-color: green;
+}
+#message {
+    position:relative;
+    text-align:center;
+    width: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:0;
+    background-color:rgba(183, 174, 174,.05);
+    color:white;
+}
+#message h1{
+    color:white;
+}

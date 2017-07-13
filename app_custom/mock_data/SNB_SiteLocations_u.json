@@ -1,0 +1,1397 @@
+[
+	{
+		"Active": "TRUE",
+		"Code": "ADD",
+		"Description": "Addicks and Barker Reservoir"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "AFD",
+		"Description": "Albany Falls Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ALB",
+		"Description": "Albuquerque,&nbsp; NM"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ALX",
+		"Description": "Alexandria, VA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ANC",
+		"Description": "Anchorage, AK"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ANX",
+		"Description": "Logistics Annex"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "APV",
+		"Description": "RMS Center Apple Valley"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ATL",
+		"Description": "Atlanta, GA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "AUB",
+		"Description": "Auburn Field Office (Natural Resource Center), New York"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BAL",
+		"Description": "Baltimore Maryland"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BAR",
+		"Description": "Barkley, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BAY",
+		"Description": "Galveston/Bay City"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BBL",
+		"Description": "Benbrook Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BCO",
+		"Description": "Boise Regulatory"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BEL",
+		"Description": "Ft. Belvoir, VA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BGB",
+		"Description": "Big Bend"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BHL",
+		"Description": "Buckhorn Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BLH",
+		"Description": "Black Hills"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BMC",
+		"Description": "Ft. Bliss Medical Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BON",
+		"Description": "Bonneville Dam, WA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BOO",
+		"Description": "Boise Outreach"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BRA",
+		"Description": "Brazos River Flood Gates"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BRL",
+		"Description": "Bardwell Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BRL",
+		"Description": "Barren River Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BUF",
+		"Description": "Buffalo, NY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BVL",
+		"Description": "Beaver Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "BVL",
+		"Description": "Brookville Lake, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CAR",
+		"Description": "Carlsbad"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CAR",
+		"Description": "Ft Carson"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CCC",
+		"Description": "CapeCod"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CCL",
+		"Description": "Carr Creek Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CCR",
+		"Description": "Corpus Christi Regulatory Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CCS",
+		"Description": "Corpus Christi"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CDA",
+		"Description": "Coeur D'Alene Regulatory Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CEN",
+		"Description": "Center Hill, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CHA",
+		"Description": "Champagne, IL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CHI",
+		"Description": "Chicago, IL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CHL",
+		"Description": "Cecil M Hardin Lake, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CHN",
+		"Description": "Chena Lakes Flood Control Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CHS",
+		"Description": "Charleston, SC"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CIN",
+		"Description": "Cincinnati, OH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CJB",
+		"Description": "CJ Brown Server, OH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CJD",
+		"Description": "Chief Joseph"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CLK",
+		"Description": "Lower Granite Natural Resource Office - Clarkston"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CLL",
+		"Description": "Clinton Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CLV",
+		"Description": "Cleveland Project Office (Ohio Area Office), Ohio"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CNL",
+		"Description": "Canyon Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "COL",
+		"Description": "Colorado River Locks"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CON",
+		"Description": "New England, Connecticut"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CRA",
+		"Description": "Central Arkansas Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CRE",
+		"Description": "Creech"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CRR",
+		"Description": "Capital Regional Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "CWL",
+		"Description": "Clearwater Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DAL",
+		"Description": "Dale Hollow, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DAL",
+		"Description": "Dallas, TX"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DAO",
+		"Description": "Detroit, MI (COOP site)"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DAR",
+		"Description": "Warren, MI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DET",
+		"Description": "Detroit, MI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DEV",
+		"Description": "Devens"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DPC",
+		"Description": "Dyess AFB Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DUL",
+		"Description": "Duluth, MN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "DWO",
+		"Description": "Dworshak Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "EAR",
+		"Description": "Eastern Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "EDW",
+		"Description": "Edwards"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "EIE",
+		"Description": "Eielson AFB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ELD",
+		"Description": "El Dorado"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ELM",
+		"Description": "El Monte"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ELT",
+		"Description": "East Lynn Lake, WV"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ENC",
+		"Description": "Encino"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FBX",
+		"Description": "Fairbanks Regulatory Field Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FLV",
+		"Description": "Ft. Leavenworth"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FLW",
+		"Description": "Ft. Leonard Wood"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FOX",
+		"Description": "Kaukauna, WI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FRE",
+		"Description": "Galveston/Freeport"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FRL",
+		"Description": "Ft. Riley"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FRN",
+		"Description": "Fern Ridge"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTC",
+		"Description": "Ft Crook"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTC",
+		"Description": "Ft. Campbell R.O., KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTH",
+		"Description": "Ft Huachuca"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTH",
+		"Description": "Ft. Hamilton, NY,"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTI",
+		"Description": "Ft. Irwin"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTK",
+		"Description": "Ft. Knox, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTL",
+		"Description": "JBLM"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTP",
+		"Description": "Ft Peck"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTR",
+		"Description": "Ft Randall"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTS",
+		"Description": "Ft. Shafter, HI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTS",
+		"Description": "POH District Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "FTW",
+		"Description": "Ft Worth, TX"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GAL",
+		"Description": "Galveston, TX"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GAL",
+		"Description": "Granger Lake&nbsp; Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GAR",
+		"Description": "Garrison"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GAS",
+		"Description": "Gasconade"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GFL",
+		"Description": "Greers Ferry Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GLS",
+		"Description": "Glasgow"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GPT",
+		"Description": "Gavins Pt"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GRH",
+		"Description": "Grand Haven, MI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GRL",
+		"Description": "Ft. Greely"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GRL",
+		"Description": "Grapevine Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GRL",
+		"Description": "Green River Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "GTL",
+		"Description": "Georgetown Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HAN",
+		"Description": "Hannover, NH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HAR",
+		"Description": "Harlan"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HCL",
+		"Description": "Hords Creek Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HEC",
+		"Description": "Davis, CA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HER",
+		"Description": "Israel"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HHD",
+		"Description": "Howard Hanson Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HHR",
+		"Description": "Ft. Hood Hospital Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HWL",
+		"Description": "Hartwell Lake,"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HIL",
+		"Description": "Hillsdale"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HSV",
+		"Description": "Huntsville, AL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "HUN",
+		"Description": "Huntington, WV"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ICE",
+		"Description": "Ice Harbor Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "IDF",
+		"Description": "Idaho Falls Regulatory Field Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "INC",
+		"Description": "Turkey"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "IND",
+		"Description": "India Job Trailer"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "IND",
+		"Description": "Indianapolis Regulatory office, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ISA",
+		"Description": "Rio Grande/Port Isabel Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JAX",
+		"Description": "Jacksonville, FL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JCL",
+		"Description": "Jim Chapman Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JDD",
+		"Description": "John Day Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JEF",
+		"Description": "Jefferson City"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JER",
+		"Description": "J E Roush, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JPL",
+		"Description": "Joe Pool Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JPP",
+		"Description": "J Percy Priest, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JRL",
+		"Description": "Jennings Randolph Lake, WV"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "JUN",
+		"Description": "Juneau Field Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KAN",
+		"Description": "Kansas City District Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KCD",
+		"Description": "Kansas City, NB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KEW",
+		"Description": "Kewaunee, WI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KFO",
+		"Description": "Kenai Field Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KNO",
+		"Description": "Kannapolis"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KOR",
+		"Description": "Korea"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KRO",
+		"Description": "Kwajalein Residence Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "KYL",
+		"Description": "Kentucky Lock, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LA1",
+		"Description": "Los Angeles, CA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LAL",
+		"Description": "Lavon Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LAR",
+		"Description": "Lackland AFB Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LBR",
+		"Description": "Long Branch Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LEL",
+		"Description": "Lewisville Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LGO",
+		"Description": "Little Goose Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LGR",
+		"Description": "Lower Granite Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LGV",
+		"Description": "Longview Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LIB",
+		"Description": "Libby Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LIT",
+		"Description": "Little Rock, AK"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LMR",
+		"Description": "Lackland AFB - Medical Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LOM",
+		"Description": "Lower Monumental Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LON",
+		"Description": "Long Beach VA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LOU",
+		"Description": "Louisville, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LPC",
+		"Description": "Laughlin AFB Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LPK",
+		"Description": "Lucky Peak Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LPL",
+		"Description": "Lake O' the Pines Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LRS",
+		"Description": "Louisville Repair Station, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LSC",
+		"Description": "Lone Star Resident Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LTC",
+		"Description": "Lackland AFB - ATC"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LUK",
+		"Description": "Luke AFB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "LWC",
+		"Description": "Lake Washington Ship Canal"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MAL",
+		"Description": "Malmstrom AFB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MAR",
+		"Description": "March ARB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MCC",
+		"Description": "McConnell"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MCN",
+		"Description": "McNary Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MEL",
+		"Description": "Melvern Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MEM",
+		"Description": "Memphis, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MHA",
+		"Description": "Mountain Home Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MIA",
+		"Description": "Miami River \\Caesar Creek, OH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MIL",
+		"Description": "Milford Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MIL",
+		"Description": "Mill Creek Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MMD",
+		"Description": "Mount Morris Dam (Visitors Center), New York"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MMD",
+		"Description": "Mud Mountain Dam"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MNL",
+		"Description": "Monroe Lake, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MNV",
+		"Description": "Mountain View"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MOB",
+		"Description": "Mobile, AL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MOR",
+		"Description": "Galveston/LaPorte Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MOR",
+		"Description": "Missouri River"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MOR",
+		"Description": "Moorings"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MSL",
+		"Description": "Mississinewa lake, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MTH",
+		"Description": "Mountain Home"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "MWL",
+		"Description": "Millwood Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NAO",
+		"Description": "Northern Alaska Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NAP",
+		"Description": "Napoleon"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NAS",
+		"Description": "Nashville, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NBL",
+		"Description": "Nimrod Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NEL",
+		"Description": "Nellis AFB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NEW",
+		"Description": "Newburgh Lock & Dam, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NFK",
+		"Description": "Norfolk, VA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NML",
+		"Description": "Navarro Mills Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NOL",
+		"Description": "New Orleans, LA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NQA",
+		"Description": "Finance Center, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NRL",
+		"Description": "Nolin River Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "NYC",
+		"Description": "New York, NY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OAH",
+		"Description": "Oahe"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OLD",
+		"Description": "Old Hickory, TN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OLM",
+		"Description": "Olmsted, IL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OMA",
+		"Description": "Omaha District Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OMA",
+		"Description": "Omaha, NB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "OVL",
+		"Description": "Ice Harbor Natural Resource Office - Overlook"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PAL",
+		"Description": "Palmdale"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PAS",
+		"Description": "Pasco Maintenance Shop"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PBA",
+		"Description": "Pine Bluff Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PER",
+		"Description": "Perry Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PHL",
+		"Description": "Philadelphia, PA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PHX",
+		"Description": "Phoenix"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PIT",
+		"Description": "Pittsburg, PA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PME",
+		"Description": "Pomme de Terre Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "POA",
+		"Description": "Port Arthur Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "POM",
+		"Description": "Pomoma Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "POR",
+		"Description": "Portland District/Division Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PRA",
+		"Description": "Prado"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PRL",
+		"Description": "Proctor Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "PRO",
+		"Description": "Portland Resident Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RAM",
+		"Description": "Ramstien AFB"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RAT",
+		"Description": "Rathbun Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RCB",
+		"Description": "Robert C Byrd Lock and Dam, WV"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RDP",
+		"Description": "Portland, OR"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RMT",
+		"Description": "Rocky Mt"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ROC",
+		"Description": "Rock Island, IL"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ROG",
+		"Description": "Rogue"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RRL",
+		"Description": "Rough River Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "RVA",
+		"Description": "Russellville Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SAC",
+		"Description": "Sacramento, CA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SAL",
+		"Description": "Salamonie Lake, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SAO",
+		"Description": "Southern Alaska Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SAU",
+		"Description": "Sausalito, CA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SAV",
+		"Description": "Savannah, GA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SBO",
+		"Description": "South Bend, IN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SCH",
+		"Description": "Schofield Barracks Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SDO",
+		"Description": "San Diego"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SEA",
+		"Description": "Seattle District Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SEA",
+		"Description": "Seattle, WA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SF0",
+		"Description": "San Francisco, CA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SHC",
+		"Description": "Ft. Sam Houston Resident Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SHL",
+		"Description": "Belton/Stillhouse Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SMI",
+		"Description": "Smithville Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SOL",
+		"Description": "Somerville Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SOO",
+		"Description": "Saute Ste Marie, MI"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SPO",
+		"Description": "Spokane"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SRL",
+		"Description": "Sam Rayburn Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "STL",
+		"Description": "St. Louis, MO"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "STO",
+		"Description": "Stockton Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "STP",
+		"Description": "St. Paul, MN"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SUT",
+		"Description": "Sutton Lake, WV"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "SWR",
+		"Description": "Southwest Area Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TAL",
+		"Description": "Taylorsville Lake, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TBL",
+		"Description": "Town Bluff Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TDD",
+		"Description": "The Dalles"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TOL",
+		"Description": "Toledo Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TRI",
+		"Description": "Fort Shafter Area Office (Tripler Army Medical Center)"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TRI",
+		"Description": "Tri-Lakes"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TRL",
+		"Description": "Table Rock Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TRR",
+		"Description": "3R Regional Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TRU",
+		"Description": "Truman"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TUL",
+		"Description": "Tulsa, OK"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TUS",
+		"Description": "Tucson"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "TUT",
+		"Description": "Tuttle Creek"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VAH",
+		"Description": "West LA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VAN",
+		"Description": "Vandenberg"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VEN",
+		"Description": "Ventura"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VIC",
+		"Description": "Italy"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VIC",
+		"Description": "Vicksburg, MS"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "VKS",
+		"Description": "Vicksburg, MS"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WAL",
+		"Description": "Waco Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WAL",
+		"Description": "Walla Walla District Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WAL",
+		"Description": "Wallisville Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WAS",
+		"Description": "Washington, DC"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WHI",
+		"Description": "Whiteman"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WHL",
+		"Description": "Whitney Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WHP",
+		"Description": "Whitney Power House"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WIE",
+		"Description": "Wiesbauten, Germany"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WIL",
+		"Description": "Wilmington, NC"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WIL",
+		"Description": "Wilson Lake"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WIN",
+		"Description": "Winchester, VA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WLA",
+		"Description": "Walla Walla, WA"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WOL",
+		"Description": "Wolf Creek, KY"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WPA",
+		"Description": "WPAO, OH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WPL",
+		"Description": "Wright Patman Lake Project Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WPT",
+		"Description": "WPAB HPW Trailer, OH"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WSC",
+		"Description": "White Sands Missile Range Resident Office"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "WVP",
+		"Description": "The Willamette Valley Project"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "YUP",
+		"Description": "Yuma Proving Grounds"
+	},
+	{
+		"Active": "TRUE",
+		"Code": "ZAM",
+		"Description": "Ft. Zama, Japan"
+	}
+]

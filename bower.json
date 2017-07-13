@@ -1,0 +1,12 @@
+{
+  "name": "snb_app",
+  "description": "App that builds server names",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}

@@ -1,0 +1,47 @@
+﻿/* Modal Styles*/
+.modal{
+    position:absolute;
+    background-color:rgba(128, 128, 128, 0.82);
+    border-radius:20px;
+    border:solid 4px black;
+    z-index:1;
+    color:#ffffff;
+    -moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+}
+.modal_help{
+    position:absolute;
+    top:50px;
+    left:30px;
+    width:800px;
+    height:540px;
+    padding:20px;
+    font-size:medium;
+}
+.modal_help h1 {
+    text-align:center;
+}
+.modal_info{
+    position:absolute;
+    width:360px;
+    padding:6px;
+}
+
+.modal h1 {
+    color:#ffffff;
+}
+.modal li{
+    margin: 0 0 6px 0;
+}
+
+.modal .modal_content_hldr{
+    position:absolute;
+    top:20px;
+    left:20px;
+    padding:10px;
+    margin:0;
+    width:600px;
+    height:100px;
+    border:solid 2px green;
+}
