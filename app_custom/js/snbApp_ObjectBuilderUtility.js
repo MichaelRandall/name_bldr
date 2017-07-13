@@ -1,4 +1,5 @@
-snbApp.objectbuilderutility = (function(){
+var snbApp = window.snbApp || {};
+snbApp.objectbuilderutility = (function () {
     function formatItemCode(itemCode, eventType){
 		if(eventType !== 'change'){ //for load event
 			var pattern = /^CE/;
@@ -62,8 +63,9 @@ snbApp.objectbuilderutility = (function(){
 				
 				var str = theList.toLowerCase();
 				snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);
+				
                 //***
-                //For UMSL API
+                //For ITSM API
                 //***
 			} else {
 				var theList = listItem.listName;
@@ -72,7 +74,7 @@ snbApp.objectbuilderutility = (function(){
 				var blkLstCodes = snbApp.sitecodeblacklist.getArrayOfBlacklistedCodes();
 				
 				for(var i = 0; i < returnedItems.length; i++){
-					
+				    
 					var item = returnedItems[i];
 					//replace Code with SiteCodePc
 					if (blkLstCodes.indexOf(item.SiteCodePc) === -1) {
@@ -80,39 +82,32 @@ snbApp.objectbuilderutility = (function(){
 					    //change event type means the user selected a field
                         //***
 						if(listItem.eventType === "change"){
-							var siteCodeChange = item.SiteCodePc;
-							siteCodeChange = siteCodeChange.slice(3);
+						    var siteCodeChange = item.SiteCodePc;
+						    if (typeof siteCodeChange === "string" & siteCodeChange != "null") {
+						        siteCodeChange = siteCodeChange < 6 ? siteCodeChange : siteCodeChange.slice(3);
+						    }
 							
 							bigStringOptions += "<option value='" + item.Id + "' data-code='" + siteCodeChange + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + siteCodeChange + ") " + item.Name + "</option>";
 							
 							snbApp.formmanager.buildSelectSiteLocations(bigStringOptions);
+							
 						//***
 						//load event which means this happens when the page is loaded
                         //***
 						}else{
-							var siteCodeLoad = item.SiteCodePc;
-							siteCodeLoad = siteCodeLoad.slice(0,3);
-							
+						    
+						    var siteCodeLoad = item.SiteCodePc;
+						    if (typeof siteCodeLoad === "string" & siteCodeLoad != "null") {
+						        var siteCodeLoad = siteCodeLoad.length < 4 ? siteCodeLoad : siteCodeLoad.slice(0, 3);
+						    }
+						 
 							bigStringOptions += "<option value='" + item.Id + "' data-code='" + siteCodeLoad + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + siteCodeLoad + ") " + item.Name + "</option>";
 							
-							snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);
+							snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);	
 						}
-						// if(item.Code.length > 3){
-							// var itemCode = formatItemCode(item.Code,listItem.eventType);
-							
-							// bigStringOptions += "<option value='" + item.Id + "' data-code='" + itemCode + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + itemCode + ") " + item.Name + "</option>";
-						// }else{
-							// bigStringOptions += "<option value='" + item.Id + "' data-code='" + item.Code + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + item.Code + ") " + item.Name + "</option>";
-						// }
 					}
 				}
-				// if(listItem.eventType === 'change'){
-					//console.log("This is a change event, but the big string is: " + bigStringOptions);
-					// snbApp.formmanager.buildSelectSiteLocations(bigStringOptions);
-				// }else{
-					//console.log("This is a load event");
-					// snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);	
-				// }	
+					
 			}              
         }
     };

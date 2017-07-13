@@ -1,4 +1,6 @@
-snbApp.dataretriever = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.dataretriever = (function () {
     var listsArray = snbApp.splistarray.getArrayOfListsForObjects();
     
     function getListData(listItem) {
@@ -14,7 +16,8 @@ snbApp.dataretriever = (function(){
             }
         })
         .done(function(results){
-			snbApp.objectbuilderutility.buildObjectFields(results, listItem);			
+            snbApp.objectbuilderutility.buildObjectFields(results, listItem);
+            
         })
         .fail(function(xhr, status, errorThrown){
             //console.log("Error:" + errorThrown + ": " + myListName);

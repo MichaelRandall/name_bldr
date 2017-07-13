@@ -1,4 +1,6 @@
-snbApp.optionsobj = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.optionsobj = (function () {
     //private variables
 	var dynamicOptionsSelect = {
 		windows:{
@@ -78,7 +80,8 @@ snbApp.optionsobj = (function(){
 					dc_offpremise_u = value;
 				    checker+=1;
 				    break;
-				}
+                }
+            
         },
         getOSObject:function(){
             //console.log("getOSObject has been called");

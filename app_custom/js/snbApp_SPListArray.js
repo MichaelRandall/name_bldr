@@ -1,4 +1,6 @@
-snbApp.splistarray = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.splistarray = (function () {
     var ListArray = [
         { "list": "SNB_PrimaryFunctionCodes_w", "codeDigits": "Code", "codeDescription": "Description","ItemStatus":"Active" },
         { "list": "SNB_SecondaryFunctionCodes_w", "codeDigits": "Code", "codeDescription": "Description","ItemStatus":"Active" },

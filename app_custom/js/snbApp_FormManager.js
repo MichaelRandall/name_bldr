@@ -1,3 +1,5 @@
+var snbApp = window.snbApp || {};
+
 //Direct interface to the form on the page
 snbApp.formmanager = (function(){
 	var form = {};
@@ -83,6 +85,13 @@ snbApp.formmanager = (function(){
 			siteLocs.innerHTML = bigString;
 		}	
 	}
+
+	function resetSiteLocDCOffOptionsSelector() {
+	    $("#site_locs_div").classList.remove("show");
+	    $("#dc_or_off_prem_div").classList.remove("show");
+	    $("#site_locs_div").classList.add("hide");
+	    $("#dc_or_off_prem_div").classList.add("hide");
+	}
     
 	function clearAllFormFields(){
       $("#snb_secondary_activity_codes").empty();
@@ -126,6 +135,10 @@ snbApp.formmanager = (function(){
 		    $("#snb_site_locations").append(optObj.unix.site_location);
 		    $("#snb_dc_offpremise_codes").append(optObj.unix.dc_offpremise);
 		  }
+		  snbApp.main.loadCount++;
+		  var loader = document.getElementById('loader');
+		  //loader.innerHTML = ".";
+		  loader.style.backgroundColor = "green";
         },
         checkSelectedOS: function(){
           var locChecked = $("input[name=os_platform]:checked").val();
@@ -149,7 +162,8 @@ snbApp.formmanager = (function(){
           clearAllFormFields();
           var radioValue = $(this).val();
           snbApp.formmanager.buildForm(radioValue,snbApp.optionsobj.getAllOptions());
-		  site_locs_div.classList.remove("show");
+          snbApp.formmanager.resetSiteLocDCOffOptionsSelector();
+          site_locs_div.classList.remove("show");
 		  dc_or_off_prem_div.classList.remove("show");
 		  site_locs_div.classList.add("hide");
 		  dc_or_off_prem_div.classList.add("hide");
@@ -161,18 +175,6 @@ snbApp.formmanager = (function(){
           }else{
              document.getElementById("btnvalidator").setAttribute('disabled','disabled');
           } 
-        },
-        lockCommitButton: function(){
-          var btnCmmt = document.getElementById("btncommit");
-          var isDisabled = btnCmmt.hasAttribute('disabled');
-          if(isDisabled){
-              btnCmmt.removeAttribute('disabled');
-          }else{
-              btnCmmt.setAttribute('disabled','disabled');
-          }
-        },
-		attachEventHandlers:function(){
-			
-		}
+        }
     };
 })();

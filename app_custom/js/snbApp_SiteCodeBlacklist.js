@@ -1,4 +1,6 @@
-snbApp.sitecodeblacklist = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.sitecodeblacklist = (function () {
     var blacklist = [
         "HQUSACE",
 		"CEFC",

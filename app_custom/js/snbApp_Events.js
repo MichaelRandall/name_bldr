@@ -1,9 +1,10 @@
- snbApp.events = (function(){      
+var snbApp = window.snbApp || {};
+
+snbApp.events = (function () {
             //EVENT LISTENER SECTION --------------------------
-            //Listens for selection change to the Windows / UNIX radio buttons
-	$("input[name='os_platform']").change(snbApp.formmanager.radioValueChanged);
-
-
+     //Listens for selection change to the Windows / UNIX radio buttons
+     
+     $("input[name='os_platform']").change(snbApp.formmanager.radioValueChanged);
 
 	$("#snb_secondary_activity_codes").on('change',function(event){
 		var myElement = event.currentTarget.id;
@@ -17,29 +18,48 @@
 		var mySelDistSite = selected.getAttribute('data-isDistSite');
 		var mySelDivID = selected.getAttribute('data-divID');
 		var mySelDistID = selected.getAttribute('data-distID');
-		//console.log("value: " + mySelVal + ", code: " + mySelCode);
+		
 
 		var filter = {};
-		
-		if(mySelDivSite === "true" && mySelDistSite === "true"){
-			filter.eventType = event.type;
-			filter.listName = "SNB_SecondaryActivityCodes";
-			filter.field = "DivisionSiteId";
-			filter.ID = mySelDivID;
-			filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=DivisionSiteId%20eq%20"+mySelDivID+"%20&%20IsPending%20eq%20false%20&%20IsActive%20eq%20true";
-			snbApp.dataretriever.letsBuild(filter);		
-		} else {
-			filter.eventType = event.type;
-			filter.listName = "SNB_SecondaryActivityCodes";
-			filter.field = "DistrictSiteId";
-			filter.ID = mySelDistID;
-			filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=DistrictSiteId%20eq%20"+mySelDistID+"%20&%20IsPending%20eq%20false%20&%20IsActive%20eq%20true";
-			snbApp.dataretriever.letsBuild(filter);
-		}
+		filter.eventType = event.type;
+		filter.listName = "SNB_SecondaryActivityCodes";
+		filter.field = "DivisionSiteId";
+		filter.ID = mySelDivID;
+		filter.Code = mySelCode;
+		filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '" + mySelCode + "') and IsPending eq false and IsActive eq true and SiteCodePc ne null and IsSpecialPurpose eq false&$orderby=SiteCodePc";
+		snbApp.dataretriever.letsBuild(filter);
+
+		//if (mySelDivSite === "true" && mySelDistSite === "true") {
+		//	filter.eventType = event.type;
+		//	filter.listName = "SNB_SecondaryActivityCodes";
+		//	filter.field = "DivisionSiteId";
+		//	filter.ID = mySelDivID;
+		//	filter.Code = mySelCode;
+		//	filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '"+mySelCode+"') and IsPending eq false and IsActive eq true and SiteCodePc ne null";
+		//	snbApp.dataretriever.letsBuild(filter);
+		//} else {
+		//	filter.eventType = event.type;
+		//	filter.listName = "SNB_SecondaryActivityCodes";
+		//	filter.field = "DistrictSiteId";
+		//	filter.ID = mySelDistID;
+		//	filter.Code = mySelCode;
+		//	filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '" + mySelCode + "') and IsPending eq false and IsActive eq true and SiteCodePc ne null";
+		//	snbApp.dataretriever.letsBuild(filter);
+		//}
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,mySelCode);
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
+	});
+    $("#secondary_activity_codes_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+        snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
 	});
 
 	$("#snb_primary_function_codes").on('change',function(event){
@@ -48,27 +68,57 @@
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,myCode);
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
+	});
+	$("#primary_function_codes_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+	    snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
 	});
 
 	$("#snb_secondary_function_codes").on('change',function(event){
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
+	});
+	$("#secondary_function_codes_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+	    snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
 	});
 
-	$("#snb_secondary_function_numbers").on('change',function(event){
-		var myElement = event.currentTarget.id;
-		var myCode = $('#snb_secondary_function_codes option:selected').val();
-		var myNumber = $('#snb_secondary_function_numbers option:selected').val();
-		var myNumberVal = $('#snb_secondary_function_numbers option:selected').val();
-		
-		var myCodeNumber = myCode + myNumberVal;
-		snbApp.servernamebuilder.updateServerSection(myElement,myCodeNumber);
-		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
-	})
+	$("#snb_secondary_function_numbers").on('change', function (event) {
+	    var myElement = event.currentTarget.id;
+	    var myCode = $('#snb_secondary_function_codes option:selected').val();
+	    var myNumber = $('#snb_secondary_function_numbers option:selected').val();
+	    var myNumberVal = $('#snb_secondary_function_numbers option:selected').val();
 
-	$("#snb_host_options").on('change',function(){
+	    var myCodeNumber = myCode + myNumberVal;
+	    snbApp.servernamebuilder.updateServerSection(myElement, myCodeNumber);
+	    snbApp.validatorutility.hideValidatorNotice();
+	});
+	$("#secondary_function_numbers_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+	    snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
+	});
+
+	$("#snb_host_options").on('change',function(event){
 		$("#server_name").empty();
 		snbApp.servernamebuilder.updateServerSection("snb_site_locations","");
 		var sel = document.getElementById("snb_host_options");
@@ -87,9 +137,18 @@
 			$("#snb_dc_offpremise_codes").find('option:first').attr('selected','selected');
 		}
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
 	});
-
+	$("#host_options_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+	    snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
+	});
 	 
 	$("#snb_site_locations").on('change',function(event){
 		var myElement = event.currentTarget.id;
@@ -102,7 +161,17 @@
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,mySelCode);
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
+	});
+	$("#site_locations_hlpr_id").mouseenter(function (event) {
+	    event.preventDefault();
+	    $(this).css("border-color", "red");
+	    $(this).addClass("pointer_cursor");
+	    snbApp.modal.displayModal("info", event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
 	});
 
 	$("#snb_dc_offpremise_codes").on('change',function(event){
@@ -114,54 +183,60 @@
 		var myCode = myParentSelected + myChildSelected;
 		snbApp.servernamebuilder.updateServerSection(myElement,myCode);
 		snbApp.validatorutility.hideValidatorNotice();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
+	});
+    $("#dc_offpremise_hlpr_id").mouseenter(function (event) {
+        event.preventDefault();
+        $(this).css("border-color", "red");
+        $(this).addClass("pointer_cursor");
+        snbApp.modal.displayModal("info",event);
+	}).mouseleave(function (event) {
+	    $(this).css("border-color", "blue");
+	    $(this).removeClass("pointer_cursor");
+	    var removable = document.getElementById(event.currentTarget.id + "_mod");
+	    document.getElementById("ui").removeChild(removable);
 	});
 
-	$("#btnvalidator").on('click',function(event){
-		//var test = snbApp.servernamesutility.getNewServerNamesArray();
-		var requestedServerNames = snbApp.servernamebuilder.getServerName();
-		var validationResults = snbApp.servernamesutility.validateName(requestedServerNames);
-		if(validationResults === 1){
-			//snbApp.servernamebuilder.updateServerNameLengthStatus(true);
-			snbApp.servernamebuilder.updateServerNameAvailability(true);
-			snbApp.formmanager.lockValidateButton();
-			document.getElementById("btncommit").removeAttribute('disabled');
-			//snbApp.formmanager.lockCommitButton();
-		}else if(validationResults === 2){
-			snbApp.formmanager.lockCommitButton();
-			document.getElementById("btncommit").setAttribute('disabled','disabled');
-		}
-		snbApp.validatorutility.updateValidationNotice(validationResults,requestedServerNames);
-		return false;
-		event.preventDefault();
+	$("#btnvalidator").on('click', function (event) {
+	    event.preventDefault();
+	    //get an array of current server names
+	    var CurrentServerNames = snbApp.servernamesutility.getNewServerNamesArray();
+	    
+        //get the full server name from the server name builder
+	    var requestedServerName = snbApp.servernamebuilder.getServerName();
+
+	    var validationResults = snbApp.servernamesutility.validateName(requestedServerName);
+	    if (validationResults === 1) {
+	        snbApp.servernamebuilder.updateServerNameAvailability(true);
+	        snbApp.formmanager.lockValidateButton();
+	    }
+	    snbApp.validatorutility.updateValidationNotice(validationResults, requestedServerName);
 	});
 
-	$("#btnrefresh").on('click',function(event){
-		var sn = snbApp.servernamebuilder.getServerNameObj();
+	$("#btnrefresh").on('click', function (event) {
+	    event.preventDefault();
+	    var sn = snbApp.servernamebuilder.getServerNameObj();
 		
 		snbApp.validatorutility.hideValidatorNotice();
 		snbApp.formmanager.resetDropdowns();
 		snbApp.validatorutility.resetServerNameField();
 		snbApp.servernamebuilder.resetServerNameObj();
-		document.getElementById("btncommit").setAttribute('disabled','disabled');
-		document.getElementById("btnvalidator").setAttribute('disabled','disabled');
-		return false;
-		event.preventDefault();
+		document.getElementById("btnvalidator").setAttribute('disabled', 'disabled');
+		$("#site_locs_div").classList.remove("show");
+		$("#dc_or_off_prem_div").classList.remove("show");
+		$("#site_locs_div").classList.add("hide");
+		$("#dc_or_off_prem_div").classList.add("hide");
 	});
 
-	$("#btncommit").on('click',function(event){
-		snbApp.formmanager.lockCommitButton();
-		snbApp.requestobj.buildRequestObject();
-		
-		var mySNObj = snbApp.requestobj.getRequestObject();
-		var results = snbApp.requestobj.putToList(mySNObj);
-		
-		snbApp.validatorutility.resetServerNameField();
-		snbApp.servernamebuilder.resetServerNameObj();
-		snbApp.formmanager.resetDropdowns();
-		snbApp.validatorutility.hideValidatorNotice();
-		//return false;
-		event.preventDefault();
+	$("#btnhelp").on('click', function (event) {
+	    event.preventDefault();
+	    if (!$("#modal").length) {
+	        snbApp.modal.displayModal("help");
+	        $("#btnhelp").text("Hide Help");
+	    } else {
+	        var removable = document.getElementById("modal");
+	        document.getElementById("ui").removeChild(removable);
+	        $("#btnhelp").text("Show Help");    
+	    }
 	});
-
+	
 })();

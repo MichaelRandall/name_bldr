@@ -1,14 +1,10 @@
-snbApp.validatorutility = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.validatorutility = (function () {
     var validator = {
-        //validatorResponse:"",
         validatorServerName:"",
         validatorNotice:""
     };
-    
-    //var validatorResponse="";
-    //var validatorServerName="";
-    //var validatorNotice="";
-    
     return{
         setValidatorFields:function(){
             $("#server_name")
@@ -24,7 +20,7 @@ snbApp.validatorutility = (function(){
             valNotice.classList.add("show");
             switch(response){
                 case 1:
-                    validator.validatorNotice = "The server name " +  requestedservername + " is valid. Click <b>Refresh</b> to choose a different name, or copy the server name for use in the server request process. <b>Note:</b> the <b>Commit</b> button is only for reporting purposes. You are not required to use it as part of the server request process.";
+                    validator.validatorNotice = "The server name " +  requestedservername + " is valid. Click <b>Refresh</b> to choose a different name, or copy the server name for use in the server request process.";
                     valNotice.innerHTML=validator.validatorNotice;
                     valNotice.classList.remove("invalid_servername");
                     valNotice.classList.add("valid_servername");
@@ -47,7 +43,6 @@ snbApp.validatorutility = (function(){
             var valNotice = document.getElementById("validation_notice");
             valNotice.classList.remove("show");
             valNotice.classList.add("hidden");
-            //this.setValidatorFields();
         }
     };
 })();

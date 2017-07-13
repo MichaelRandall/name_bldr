@@ -1,4 +1,5 @@
-snbApp.requestobj = (function(){
+var snbApp = window.snbApp || {};
+snbApp.requestobj = (function () {
     var userID = "";
     var userName = "";
     var siteLocation = "";

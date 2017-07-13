@@ -1,4 +1,6 @@
-snbApp.utilities = (function(){
+var snbApp = window.snbApp || {};
+
+snbApp.utilities = (function () {
     return {
         getToday:function(){
             var today = new Date();

@@ -5,10 +5,9 @@
 -->
 <!--endbuild-->
 
-<!--
 <link rel="stylesheet" type="text/css" href="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/css/snbApp_Styles.css">
--->
-<link rel="stylesheet" type="text/css" href="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/snbApp_Styles.css">
+<link rel="stylesheet" type="text/css" href="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/css/snbApp_LoadingScreen.css">
+<link rel="stylesheet" type="text/css" href="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/css/snbApp_Modal.css">
 
 
 <!--build:css css/main.css-->
@@ -23,6 +22,8 @@
 <script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/libs/bootstrap/bootstrap.js"></script>
 
 <script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/libs/bootstrap/bootstrap-select.js"></script>
+
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/bower_components/angular/angular.js"></script>
 
 
 <!--build:js js/main.min.js -->
@@ -59,7 +60,17 @@
 
 <!--build:remove -->
 
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/app.module.js"></script>
+
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/messages/messages.module.js"></script>
+
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/messages/messages.component.js"></script>
+
 <script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/snbApp_NamespaceObj.js"></script>
+
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/snbApp_LoadingScreen.js"></script>
+
+<script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/snbApp_Modal.js"></script>
 
 <script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/snbApp_URLBuilder.js"></script>
 
@@ -89,12 +100,19 @@
 
 <!--endbuild-->
 
+<div id="loader_hldr">
+    <div id="loader">
+        <div id="progress">
 
-
+        </div>
+    </div>
+    <div id="message">
+        <h1>Loading...</h1>
+        <p>Click the browser refresh button if the page does not load within 30 seconds.</p>
+    </div>
+</div>
 <div id="content_holder">
-	<div id="load_error">
-	</div>
-	<div id="ui">
+	<div id="ui" style="position:relative">
 		<h2>USACE Server Name Builder</h2>
 		<br />
 		
@@ -102,50 +120,51 @@
 		<fieldset>
 			<legend><h3>1. Server Operating System</h3></legend>
 			<label for="os_platform">What operating system does the server need?</label>
-			<input type="radio" name="os_platform" value="windows" checked>Windows
-			<input type="radio" name="os_platform" value="unix">UNIX
+			<input type="radio" name="os_platform" value="windows" checked tabindex="1">Windows
+			<input type="radio" name="os_platform" value="unix" tabindex="2">UNIX
 		</fieldset>
 		<div id="server_boxes" class="show">
 			<fieldset>
 				<legend><h3>2. Server Operational Unit & Roles</h3></legend>
 				<label class="select_input_labels" for="snb_secondary_activity_codes">What operational unit will the server be assigned to? <span class="required">*</span></label>
-				<select id="snb_secondary_activity_codes" name="snb_secondary_activity_codes" tabindex="1">
-				</select>
+				<select id="snb_secondary_activity_codes" name="snb_secondary_activity_codes" tabindex="3">
+				</select><div id="secondary_activity_codes_hlpr_id" class="help_hldr">?</div>
 				<br />
 			
 				<label class="select_input_labels" for="snb_primary_function_codes">What is the server's primary role? <span class="required">*</span></label>
-				<select id="snb_primary_function_codes" name="snb_primary_function_codes" tabindex="2">
-				</select>
+				<select id="snb_primary_function_codes" name="snb_primary_function_codes" tabindex="4">
+				</select><div id="primary_function_codes_hlpr_id" class="help_hldr">?</div>
 				<br />
 			
 				<label class="select_input_labels" for="snb_secondary_function_codes">Will the server have a secondary role? <span class="required">*</span></label>
 				<p class="field_details"><b>If the server has no secondary role, select "Not Applicable", and then select a sequence number.</b></p>
-				<select id="snb_secondary_function_codes" name="snb_secondary_function_codes" tabindex="3">
-				</select><br />
-				<label class="select_input_labels" for="snb_secondary_function_numbers">Select a sequence number <span class="required">*</span></label>
-				<select id="snb_secondary_function_numbers" name="snb_secondary_function_numbers">
-				</select>           
+				<select id="snb_secondary_function_codes" name="snb_secondary_function_codes" tabindex="5">
+				</select><div id="secondary_function_codes_hlpr_id" class="help_hldr">?</div>
+                <br />
+                <label class="select_input_labels" for="snb_secondary_function_numbers">Select a sequence number <span class="required">*</span></label>
+				<select id="snb_secondary_function_numbers" name="snb_secondary_function_numbers" tabindex="6">
+				</select><div id="secondary_function_numbers_hlpr_id" class="help_hldr">?</div>          
 			</fieldset>
 			<fieldset>
 				<legend><h3>3. Server Location</h3></legend>
 				<label for="snb_host_options">What hosting options are required? <span class="required">*</span></label>
-				<select id="snb_host_options" name="snb_host_options" tabindex="4">
+				<select id="snb_host_options" name="snb_host_options" tabindex="7">
 					<option value="site" data-code="site">Site</option>
 					<option value="DC" data-code="DC">Data Capability</option>
 					<option value="OP" data-code="OP">Off Premise</option>
-				</select>
+				</select><div id="host_options_hlpr_id" class="help_hldr">?</div>
 				
 				<div id="site_locations_div" class="hide">
 					<label for="snb_site_locations">Site Name <span class="required">*</span></label>
-					<select id="snb_site_locations" name="snb_site_locations" tabindex="5">
+					<select id="snb_site_locations" name="snb_site_locations" tabindex="8">
 						<option value='0' disabled selected>Select Option</option>
-					</select>
+					</select><div id="site_locations_hlpr_id" class="help_hldr">?</div>
 				</div>
 				
 				<div id="dc_or_off_premise_div" class="hide">
 					<label>Usage Environment <span class="required">*</span></label>
-					<select id="snb_dc_offpremise_codes" tabindex="4" width="6">
-					</select>
+					<select id="snb_dc_offpremise_codes" tabindex="9" width="6">
+					</select><div id="dc_offpremise_hlpr_id" class="help_hldr">?</div>
 				</div>
 			</fieldset>
 		</div>
@@ -158,26 +177,30 @@
 			<div id="server_name" class="flex-item" name="server_name"><strong><span class="valigned_text">Server name</span></strong></div>
 		</div>
 		<div id="btnholder">
-			<button id="btnvalidator" name="validator" value="validator" title="Validate server name.">Validate Name</button>
-			<button id="btnrefresh" name="refresh" value="refresh" title="Reset form values to default.">Refresh</button>
-			<button id="btncommit" name="commit" value="commit" title="Commit server name transaction, do not do this unless you are committed to using the server name.">Commit</button>
+			<button id="btnvalidator" name="validator" value="validator" title="Validate server name." tabindex="10">Validate Name</button>
+			<button id="btnrefresh" name="refresh" value="refresh" title="Reset form values to default." tabindex="11">Refresh</button>
+            <button id="btnhelp" name="help" value="help" title="Display help." tabindex="12">Show Help</button>
 		</div>
 		<div id="srvrResultsx">
 		
 		</div>
 		<br />
 		<br />
-		<div id="log">
+        <!--
+		<div id="log"  ng-app="messageApp">
+            <message-list></message-list>
 		</div>
+        -->
 	</div>
 </div>
 <script src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/snbApp_UILoggerUtility.js"></script>
 <script>
 $(document).ready(function(){
     //builds all select options using AJAX from different SharePoint lists
-    SP.SOD.executeFunc('sp.js','SP.ClientContext',function(){
+    SP.SOD.executeFunc('sp.js', 'SP.ClientContext', function () {
         snbApp.main.init();
     });   
 });
 </script>
+
 <script type="text/javascript" src="https://staging-team.usace.army.mil/sites/sandbox/WW/MR/Custom%20Code/app_custom/js/snbApp_Events.js"></script>

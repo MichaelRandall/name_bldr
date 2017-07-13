@@ -1,5 +1,8 @@
+var snbApp = window.snbApp || {};
+
 //items in this file handles the name component at the bottom of the form
-snbApp.servernamebuilder = (function(){
+snbApp.servernamebuilder = (function () {
+    
     //private variables
     var serverNameObj = {
         primary_activity:"COE-",

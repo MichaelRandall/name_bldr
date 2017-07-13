@@ -1,8 +1,12 @@
-snbApp.main = (function(){
-    var pub = {};
-    pub.init = function(){
+var snbApp = window.snbApp || {};
+
+snbApp.main = (function () {
+    var main = {};
+    main.loadCount = 0;
+
+    main.init = function () {
+        snbApp.loadingscreen.startLoader();
         snbApp.formmanager.lockValidateButton();
-        snbApp.formmanager.lockCommitButton();
         
 		//Retrieve current list of server names to validate against
         snbApp.servernamesutility.getNewServerNames();
@@ -31,15 +35,16 @@ snbApp.main = (function(){
 				};
 				var clientContext = new SP.ClientContext.get_current();
 				clientContext.executeQueryAsync(snbApp.dataretriever.letsBuild(listDetails), _onQueryFailed);
+				
 			}
 			
 		    //***
-		    //Build select option from UMSL API
+		    //Build select option from ITSM API
             //***
 			var listDetails = {
 				listName:"SNB_SecondaryActivityCodes",
 				// url: snbApp.urlbuilder.getUMSLURL("$filter=IsDistrictSite eq true or IsDivisionSite eq true and IsActive eq true and IsPending eq false")
-				url: "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=IsDistrictSite eq true or IsDivisionSite eq true and IsActive eq true and IsPending eq false"
+				url: "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=(IsDistrictSite eq true or IsDivisionSite eq true) and IsActive eq true and IsPending eq false and SiteCodePc ne null and IsSpecialPurpose eq false&$orderby=SiteCodePc"
 			};
 			snbApp.dataretriever.letsBuild(listDetails);
 		}
@@ -54,7 +59,8 @@ snbApp.main = (function(){
         function delayFieldPopulate(){
 			var optObj = snbApp.optionsobj.getAllOptions();
 			var osType = $("input[name=os_platform]:checked").val();
-			snbApp.formmanager.buildForm(osType, optObj);  
+			snbApp.formmanager.buildForm(osType, optObj);
+
         }
     };
 
@@ -62,5 +68,5 @@ snbApp.main = (function(){
         alert('Request failed.\nError: ' + args.get_message() + '\nStackTrace: ' + args.get_stackTrace());
     }
 
-    return pub
+    return main
 })();
