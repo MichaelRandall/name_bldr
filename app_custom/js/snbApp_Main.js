@@ -6,7 +6,8 @@ snbApp.main = (function () {
 
     main.init = function () {
         snbApp.loadingscreen.startLoader();
-        snbApp.formmanager.lockValidateButton();
+        var valBtn = document.getElementById("btnvalidator");
+        valBtn.setAttribute('disabled', 'disabled');
         
 		//Retrieve current list of server names to validate against
         snbApp.servernamesutility.getNewServerNames();

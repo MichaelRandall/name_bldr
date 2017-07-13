@@ -1,3 +1,4 @@
+//calls file containing server names and compares requested server name with all names in list to see if it is available
 var snbApp = window.snbApp || {};
 
 snbApp.servernamesutility = (function () {

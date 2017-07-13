@@ -28,27 +28,9 @@ snbApp.events = (function () {
 		filter.Code = mySelCode;
 		filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '" + mySelCode + "') and IsPending eq false and IsActive eq true and SiteCodePc ne null and IsSpecialPurpose eq false&$orderby=SiteCodePc";
 		snbApp.dataretriever.letsBuild(filter);
-
-		//if (mySelDivSite === "true" && mySelDistSite === "true") {
-		//	filter.eventType = event.type;
-		//	filter.listName = "SNB_SecondaryActivityCodes";
-		//	filter.field = "DivisionSiteId";
-		//	filter.ID = mySelDivID;
-		//	filter.Code = mySelCode;
-		//	filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '"+mySelCode+"') and IsPending eq false and IsActive eq true and SiteCodePc ne null";
-		//	snbApp.dataretriever.letsBuild(filter);
-		//} else {
-		//	filter.eventType = event.type;
-		//	filter.listName = "SNB_SecondaryActivityCodes";
-		//	filter.field = "DistrictSiteId";
-		//	filter.ID = mySelDistID;
-		//	filter.Code = mySelCode;
-		//	filter.url = "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=startswith(SiteCodePc, '" + mySelCode + "') and IsPending eq false and IsActive eq true and SiteCodePc ne null";
-		//	snbApp.dataretriever.letsBuild(filter);
-		//}
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,mySelCode);
-		snbApp.validatorutility.hideValidatorNotice();
+		snbApp.formmanager.hideValidatorNotice();
 	});
     $("#secondary_activity_codes_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -67,7 +49,7 @@ snbApp.events = (function () {
 		var myCode = $('#snb_primary_function_codes option:selected').val();
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,myCode);
-		snbApp.validatorutility.hideValidatorNotice();
+		snbApp.formmanager.hideValidatorNotice();
 	});
 	$("#primary_function_codes_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -82,7 +64,7 @@ snbApp.events = (function () {
 	});
 
 	$("#snb_secondary_function_codes").on('change',function(event){
-		snbApp.validatorutility.hideValidatorNotice();
+	    snbApp.formmanager.hideValidatorNotice();
 	});
 	$("#secondary_function_codes_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -104,7 +86,7 @@ snbApp.events = (function () {
 
 	    var myCodeNumber = myCode + myNumberVal;
 	    snbApp.servernamebuilder.updateServerSection(myElement, myCodeNumber);
-	    snbApp.validatorutility.hideValidatorNotice();
+	    snbApp.formmanager.hideValidatorNotice();
 	});
 	$("#secondary_function_numbers_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -119,7 +101,6 @@ snbApp.events = (function () {
 	});
 
 	$("#snb_host_options").on('change',function(event){
-		$("#server_name").empty();
 		snbApp.servernamebuilder.updateServerSection("snb_site_locations","");
 		var sel = document.getElementById("snb_host_options");
 		var selected = sel.options[sel.selectedIndex];
@@ -136,7 +117,7 @@ snbApp.events = (function () {
 			$("#dc_or_off_premise_div").removeClass("hide").addClass("show");
 			$("#snb_dc_offpremise_codes").find('option:first').attr('selected','selected');
 		}
-		snbApp.validatorutility.hideValidatorNotice();
+		snbApp.formmanager.hideValidatorNotice();
 	});
 	$("#host_options_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -160,7 +141,7 @@ snbApp.events = (function () {
 		var mySelCode = selected.getAttribute('data-code');
 		
 		snbApp.servernamebuilder.updateServerSection(myElement,mySelCode);
-		snbApp.validatorutility.hideValidatorNotice();
+		snbApp.formmanager.hideValidatorNotice();
 	});
 	$("#site_locations_hlpr_id").mouseenter(function (event) {
 	    event.preventDefault();
@@ -182,7 +163,7 @@ snbApp.events = (function () {
 		
 		var myCode = myParentSelected + myChildSelected;
 		snbApp.servernamebuilder.updateServerSection(myElement,myCode);
-		snbApp.validatorutility.hideValidatorNotice();
+		snbApp.formmanager.hideValidatorNotice();
 	});
     $("#dc_offpremise_hlpr_id").mouseenter(function (event) {
         event.preventDefault();
@@ -207,24 +188,14 @@ snbApp.events = (function () {
 	    var validationResults = snbApp.servernamesutility.validateName(requestedServerName);
 	    if (validationResults === 1) {
 	        snbApp.servernamebuilder.updateServerNameAvailability(true);
-	        snbApp.formmanager.lockValidateButton();
+	        //snbApp.formmanager.lockValidateButton();
 	    }
 	    snbApp.validatorutility.updateValidationNotice(validationResults, requestedServerName);
 	});
 
 	$("#btnrefresh").on('click', function (event) {
 	    event.preventDefault();
-	    var sn = snbApp.servernamebuilder.getServerNameObj();
-		
-		snbApp.validatorutility.hideValidatorNotice();
-		snbApp.formmanager.resetDropdowns();
-		snbApp.validatorutility.resetServerNameField();
-		snbApp.servernamebuilder.resetServerNameObj();
-		document.getElementById("btnvalidator").setAttribute('disabled', 'disabled');
-		$("#site_locs_div").classList.remove("show");
-		$("#dc_or_off_prem_div").classList.remove("show");
-		$("#site_locs_div").classList.add("hide");
-		$("#dc_or_off_prem_div").classList.add("hide");
+	    snbApp.formmanager.refreshClicked();
 	});
 
 	$("#btnhelp").on('click', function (event) {

@@ -31,6 +31,7 @@ snbApp.servernamebuilder = (function () {
             full_server_name = serverNameObj.primary_activity + serverNameObj.secondary_activity + serverNameObj.primary_function + serverNameObj.secondary_function + serverNameObj.site_location;
             return full_server_name;
         },
+        //updates-appends server name field with user selected value
         updateServerSection:function(section, value){
             switch (section) {
                 case "snb_secondary_activity_codes":

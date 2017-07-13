@@ -86,14 +86,42 @@ snbApp.formmanager = (function(){
 		}	
 	}
 
+    function lockValidateButton() {
+        var isDisabled = document.getElementById("btnvalidator").hasAttribute('disabled');
+        if (isDisabled) {
+            document.getElementById("btnvalidator").removeAttribute('disabled');
+        } else {
+            document.getElementById("btnvalidator").setAttribute('disabled', 'disabled');
+        }
+    }
+
+    //sets each drop-down to its default state - does not clear the drop-down fields like clearAllFormFields
+    //used when user clicks refresh button
+	function resetSelectFields() {
+	    $('select').each(function(i){
+	        $(this).find('option:first').attr('selected','selected');
+	    })
+	}
+
+	function resetServerNameField(){
+	    $("#server_name").empty("Server name");
+	    //snbApp.servernamebuilder.updateServerSection();
+	}
+
 	function resetSiteLocDCOffOptionsSelector() {
-	    $("#site_locs_div").classList.remove("show");
-	    $("#dc_or_off_prem_div").classList.remove("show");
-	    $("#site_locs_div").classList.add("hide");
-	    $("#dc_or_off_prem_div").classList.add("hide");
+	    var site_locs_div = document.getElementById("site_locations_div");
+	    var dc_or_off_prem_div = document.getElementById("dc_or_off_premise_div");
+	    site_locs_div.classList.remove("show");
+	    dc_or_off_prem_div.classList.remove("show");
+	    site_locs_div.classList.add("hide");
+	    dc_or_off_prem_div.classList.add("hide");
+	    //$("#site_locations_div").classList.remove("show");
+	    //$("#dc_or_off_premise_div").classList.remove("show");
+	    //$("#site_locations_div").classList.add("hide");
+	    //$("#dc_or_off_premise_div").classList.add("hide");
 	}
     
-	function clearAllFormFields(){
+	function clearSelectFields(){
       $("#snb_secondary_activity_codes").empty();
       $("#snb_primary_function_codes").empty();
       $("#snb_secondary_function_codes").empty();
@@ -101,8 +129,8 @@ snbApp.formmanager = (function(){
       $("#snb_dc_offpremise_codes").empty();
       $("#snb_secondary_function_numbers").empty();
       $("#snb_host_options").empty();
-	  $("#server_name").empty();
-    }
+	  //$("#server_name").empty();
+	}
 
     function timeBuilder() {
         var timeString = "";
@@ -116,8 +144,8 @@ snbApp.formmanager = (function(){
         buildSelectSiteLocations: function(bigString){
 			buildSiteLocations(bigString);
 		},
-		buildForm: function(osType, optObj){
-		  clearAllFormFields();
+        buildForm: function (osType, optObj) {
+		  clearSelectFields();
 		  buildLocationTypeSelector();
 		  buildSecondaryFunctionNumberSelector();
 		  buildSiteLocations();
@@ -150,31 +178,31 @@ snbApp.formmanager = (function(){
             return osU;
           }
         },
-        resetDropdowns: function() {
-          $('select').each(function(i){
-            $(this).find('option:first').attr('selected','selected');
-          })
+
+        hideValidatorNotice: function(){
+	        var valNotice = document.getElementById("validation_notice");
+            valNotice.classList.remove("show");
+            valNotice.classList.add("hidden");
         },
+        
 		//called when the user changes the OS radio button
         radioValueChanged:function(){
-		  var site_locs_div = document.getElementById("site_locations_div");
-		  var dc_or_off_prem_div = document.getElementById("dc_or_off_premise_div");
-          clearAllFormFields();
+          clearSelectFields();
           var radioValue = $(this).val();
           snbApp.formmanager.buildForm(radioValue,snbApp.optionsobj.getAllOptions());
-          snbApp.formmanager.resetSiteLocDCOffOptionsSelector();
-          site_locs_div.classList.remove("show");
-		  dc_or_off_prem_div.classList.remove("show");
-		  site_locs_div.classList.add("hide");
-		  dc_or_off_prem_div.classList.add("hide");
+          resetSiteLocDCOffOptionsSelector();
+          lockValidateButton();
+          snbApp.formmanager.hideValidatorNotice();
+          snbApp.servernamebuilder.resetServerNameObj();
+          resetServerNameField();
         },
-        lockValidateButton: function(){
-          var isDisabled = document.getElementById("btnvalidator").hasAttribute('disabled');
-          if(isDisabled){
-             document.getElementById("btnvalidator").removeAttribute('disabled'); 
-          }else{
-             document.getElementById("btnvalidator").setAttribute('disabled','disabled');
-          } 
+        refreshClicked: function () {
+          resetSelectFields();
+          resetSiteLocDCOffOptionsSelector();
+          lockValidateButton();
+          snbApp.formmanager.hideValidatorNotice();
+          snbApp.servernamebuilder.resetServerNameObj();
+          resetServerNameField();
         }
     };
 })();

@@ -17,7 +17,7 @@ snbApp.optionsobj = (function () {
 		}	
 	};
     var primary_activity_w = "";
-	var primary_activity_u = "";
+    var primary_activity_u = "";
     var secondary_activity_w = "";
 	var secondary_activity_u = "";
     var primary_function_w = "";

@@ -11,9 +11,6 @@ snbApp.validatorutility = (function () {
               .removeClass("valid_servername")
               .html(validator.validatorServerName);
         },
-        resetServerNameField:function(){
-            $("#server_name").empty("Server name");
-        },
         updateValidationNotice:function(response,requestedservername){
             var valNotice = document.getElementById("validation_notice");
             valNotice.classList.remove("hidden");
@@ -39,10 +36,10 @@ snbApp.validatorutility = (function () {
                     break;
             }   
         },
-        hideValidatorNotice:function(){
-            var valNotice = document.getElementById("validation_notice");
-            valNotice.classList.remove("show");
-            valNotice.classList.add("hidden");
-        }
+        //hideValidatorNotice:function(){
+        //    var valNotice = document.getElementById("validation_notice");
+        //    valNotice.classList.remove("show");
+        //    valNotice.classList.add("hidden");
+        //}
     };
 })();
