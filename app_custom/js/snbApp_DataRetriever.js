@@ -1,8 +1,11 @@
 var snbApp = window.snbApp || {};
 
+
 snbApp.dataretriever = (function () {
     var listsArray = snbApp.splistarray.getArrayOfListsForObjects();
-    
+    var newResults;
+	var newResultsValue;
+	var combinedResultsValue;
     function getListData(listItem) {
 		
 		var eventType = event.type;
@@ -16,8 +19,29 @@ snbApp.dataretriever = (function () {
             }
         })
         .done(function(results){
-            snbApp.objectbuilderutility.buildObjectFields(results, listItem);
-            
+			//results.value indicates that the results are from ITSM
+			if(results.value){
+				if(eventType === 'load'){
+					if(newResults === undefined){
+						newResults = results;
+						newResultsValue = results.value;
+					}else{
+						combinedResultsValue = newResultsValue.concat(results.value);
+					}
+					
+					if(results['@odata.nextLink']){
+						listItem.url = results['@odata.nextLink'];
+						snbApp.dataretriever.letsBuild(listItem);
+					}else{
+						results.value = combinedResultsValue;
+						snbApp.objectbuilderutility.buildObjectFields(results, listItem);
+					}
+				}else{
+					snbApp.objectbuilderutility.buildObjectFields(results, listItem);
+				}	
+			}else{
+				snbApp.objectbuilderutility.buildObjectFields(results, listItem);
+			}
         })
         .fail(function(xhr, status, errorThrown){
             //console.log("Error:" + errorThrown + ": " + myListName);

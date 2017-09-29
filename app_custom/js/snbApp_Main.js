@@ -15,7 +15,7 @@ snbApp.main = (function () {
         //***
         //
         //***
-		function buildSelectOptions(){
+		function buildQryStringForSelectOptions(){
 		
 		    //***
 		    //Build select options from multiple SharePoint lists
@@ -27,30 +27,31 @@ snbApp.main = (function () {
 				var qryStrng =  listItem.list +
         "?$select=" + listItem.codeDigits + "," + listItem.codeDescription + "," + listItem.ItemStatus + "&$orderby=" + listItem.codeDescription + "&$filter="+listItem.ItemStatus+" eq true" + "&$inlinecount=allpages"
 				
-				var listDetails = {
+				var listAndQryStringObj = {
 					listName: listItem.list,
 					listObj: listItem,
 					//url:snbApp.urlbuilder.getSPURL(qryStrng)
-					url: "https://staging-team.usace.army.mil/sites/ACEIT/PMO/O/O/I/E/_vti_bin/listdata.svc/" + listItem.list +
+					url: "https://staging-team.usace.army.mil/sites/sandbox/WW/MR/_vti_bin/listdata.svc/" + listItem.list +
         "?$select=" + listItem.codeDigits + "," + listItem.codeDescription + "," + listItem.ItemStatus + "&$orderby=" + listItem.codeDescription + "&$filter="+listItem.ItemStatus+" eq true" + "&$inlinecount=allpages"
 				};
 				var clientContext = new SP.ClientContext.get_current();
-				clientContext.executeQueryAsync(snbApp.dataretriever.letsBuild(listDetails), _onQueryFailed);
+				clientContext.executeQueryAsync(snbApp.dataretriever.letsBuild(listAndQryStringObj), _onQueryFailed);
 				
 			}
 			
 		    //***
-		    //Build select option from ITSM API
+		    //Build select option from (UMSL) ITSM API
             //***
-			var listDetails = {
+			var listAndQryStringObj = {
 				listName:"SNB_SecondaryActivityCodes",
-				// url: snbApp.urlbuilder.getUMSLURL("$filter=IsDistrictSite eq true or IsDivisionSite eq true and IsActive eq true and IsPending eq false")
-				url: "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=(IsDistrictSite eq true or IsDivisionSite eq true) and IsActive eq true and IsPending eq false and SiteCodePc ne null and IsSpecialPurpose eq false&$orderby=SiteCodePc"
+				url: "https://itsm.usace.army.mil/requests/odata/v1/Sites?$filter=IsActive eq true and IsPending eq false and SiteCodePc ne null and IsSpecialPurpose eq false&$orderby=SiteCodePc"
 			};
-			snbApp.dataretriever.letsBuild(listDetails);
+			snbApp.dataretriever.letsBuild(listAndQryStringObj);
 		}
 		
-		buildSelectOptions();
+		buildQryStringForSelectOptions();
+		//buildShPointQryStringForSelectOptions();
+		//buildITSMQryStringForSelectOptions();
 		
         //***
         //Add delay to populate fields to ensure all data retrieved from AJAX calls

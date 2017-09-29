@@ -1,0 +1,8312 @@
+[
+	{
+		"SiteCodePc": "249249",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "CPCCPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHEB2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHEB3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHECA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHECH",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHECS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHEPB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ECHESH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "EHAEHA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "EHAERF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "EHAFWC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERAAGC",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERAECB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERAERA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV103",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV108",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV173",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV209",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV221",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV226",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV249",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV296",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV300",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV302",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV304",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV346",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV347",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV348",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV350",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV351",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV370",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV372",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV373",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV378",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV379",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV381",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV384",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV386",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV387",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV388",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV390",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV394",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV396",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV397",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV398",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV399",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV501",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV508",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV512",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV513",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV514",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV516",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV519",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV528",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV535",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV536",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV542",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV543",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV600",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV601",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV605",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV606",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV607",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV608",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV610",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV611",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV612",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV615",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV617",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV700",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV702",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV800",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERV801",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVAFM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVEDC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVEDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVEMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVEPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVERV",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVES3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVFEC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVFRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVGPB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVLRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVLRH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVLRL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVNSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVNSM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVNSR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVNST",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVPB1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVR19",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVT11",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVT30",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVTRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVUAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "ERVUEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "FCHUFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HMS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNC490",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNC491",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNC492",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNCCEF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNCHNC",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "hncs16",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "hncs18",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNCULC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNCWHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HNCWRH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQHCAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQHHQH",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQHMTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQHSUP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQSHQS",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "HQSPEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQSQ99",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "HQSRVR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "IWAIWA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "IWDHEC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "IWRLVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "IWRWSC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LABCTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "LRBAUB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBCLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBLRB",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBMDG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBMDV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBMTM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBNFS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBOAK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBORW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBSTO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRBTOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRC2BW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCCAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCCLK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCFBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCGSB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCIND",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCJMP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCLRC",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCMCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCNAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRCSUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRDCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRDLRD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "LRDREE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREDEC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREDET",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREDUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREDVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREDVY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREFOX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREGRH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREKEW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRELRE",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LREMAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRESAG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRESOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRESOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRETAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHACL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHAWH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHAWL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBFL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBIS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBOD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBSL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHBVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCDL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCML",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCSG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHCWC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHDCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHDEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHDLL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHDWL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHELL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFHS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFHT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFLB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFM1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFME",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHFTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHGSL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHGUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHHCF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHJFD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHKAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHLDL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHLRH",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHLVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMCF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMEO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMRS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHMVD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHNPL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHPCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHPHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHPML",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHPRS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHPVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHR3H",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHRBD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHRBL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHRCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHSTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHSUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHSVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHTJD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHTPL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHWAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHWCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHWFL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHWLI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHWWA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRHYVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLAHU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLBRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLBUC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCAG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCJB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLCRL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLD52",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLD53",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLEKR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLFCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLGPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLGR1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLGR2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLGRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLGRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLHAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLHIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLIPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLIRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLJER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLJPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLJTM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLKNX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLLLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLLML",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLLRL",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLMAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLMIA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLMIS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLMLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLNEW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLNLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLNOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLORO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLPAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLRIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLRLP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLROU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLSCO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLSLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLSMI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLSPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLTAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLTNB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLURP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLUWP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLWES",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRLWPA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNBPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCHE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCNP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCNR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNCRS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNDAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNDHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNDOV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNECK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNFER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNFLL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNFWR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNGUN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNHKK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNHUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNJPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNKEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNLAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNLBA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNLLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNLRN",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNMAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNMRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNNAE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNNIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNOAK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNOHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNOLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNPIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNPP2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNPPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNRBH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNTMS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNUCA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNWBL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNWCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNWCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNWHE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRNWIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPBER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPCHA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPCON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPDAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPEBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPEBR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPEMS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPFWE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPGRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPHAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPHIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPHNA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPKIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL2A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL2M",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL3A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL3M",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL4A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL4M",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL5A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL6A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL7A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL8A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPL9A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPLDB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPLKW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPLOY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPLRP",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMAH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMAX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMJK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMLM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPMOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPNCU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPOPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPPEW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPPIK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPPOI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPRBT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPREP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPSMO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPSOA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPSTO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPTIO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPTYG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPURE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPWES",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPWOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "LRPYOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MLTMLT",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MLTULA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVDHAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVDMUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVDMVD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "MVKARK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKBEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKBOD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKBOG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKCHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKCOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDEG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKDLV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKENI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKFEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGLF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGLP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGLS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKGRS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKHAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKJAD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKJON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLD3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLK3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLK4",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLK5",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQJ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKLQT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKMSU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKMVK",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKMVW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKNAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKNPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKOUA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKOVR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKRRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKSAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKSHR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKSLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKSLO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKSLP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKTEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKTHA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVKVID",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMBGU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMCAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMCRL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMDRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMENS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMGBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMGRU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMHUX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMMIS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMMKW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMMVM",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMNSS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMOVE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMRLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMTRB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVMWYN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNALG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNALL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNBEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNBER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNBON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNBOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNCAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNCLO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNCSW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNCTX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNFRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNHAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNHFS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNIHN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNLAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNLEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNMOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNMVN",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNORA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNORL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNPCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNPS6",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNSCH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNSOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNSTF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNVEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVNWHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPBEM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPBHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPBHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPDGZ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPEAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPEAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPESC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPFCB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPFGO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPGFO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPGRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPGUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPHAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL01",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL02",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL03",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL04",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL05",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL06",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL07",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL08",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL09",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL10",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPL5A",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPLAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPLEE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPLQP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPLSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPLTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPMVP",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPODP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPPOK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPSAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPSTE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPTWO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPUSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVPWAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRAFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRBFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRBLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCGC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCTC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRCVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRDES",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRDRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVREAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRFCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRGRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRHSC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRIWP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL01",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL02",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL03",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL04",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL05",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL06",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL07",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL08",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL11",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL12",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL13",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL14",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL15",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL16",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL17",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL18",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL19",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL20",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL21",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRL22",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRLCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRLRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRLVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMP4",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRMVR",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRNCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRPFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRRRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRRRK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSUG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRSVE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRTCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRTRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRWAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRWBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRWME",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRWRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVRWWV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSCAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSFUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSJFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSL24",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSL25",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSL27",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSMEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSMTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSMVS",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSNAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSNRM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSPOT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSPTH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSREN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSRPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSSAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSSER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSSHE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSSLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "MVSWAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAB20C",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABABD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABALD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABAPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABAWG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABBAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABBRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABCAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABCDE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABCLS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABCUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABDAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABECO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABEPA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABERO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABETN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFDK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFGF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFME",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFMH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABFOS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABHFD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABICC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABIRD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABJRL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABLKA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABMRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABNAB",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABPEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABRAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABRDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABRSF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABRSO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSID",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSMM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABSTC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABTDE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABTGA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABURE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABUTA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABWDT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NABWLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NADNAD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "NADPAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBIR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEBUF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAECCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAECCV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAECOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAECTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEEDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEFOX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEFRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEHOP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEHPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEKNI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAELTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEMAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEMAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEMMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEMRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENAE",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENBE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENCT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAENHA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEOTT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAESPR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAESTA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAESUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAETHA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAETHO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAETOW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAETUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEUCT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEUNV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEVTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEWES",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEWHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEWTH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAEWTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANALB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANBRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANBRU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANCAV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "nancbu",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANFPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANFRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANFTD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANFTH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANGPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANKVK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANMAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANMCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "nanmet",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "nanmon",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANNAN",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANNFE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANPIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANSCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANSEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANWAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NANWPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOANC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOAPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOAPW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOAWS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOCRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAODLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAODSC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAODUM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOFSB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOFTE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOGAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOGBR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOLAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOLEE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAONAO",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAONLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOPI1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAORIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAOROA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPATL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPBDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPBML",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPCDC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPDOV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPDRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPDUP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPFTD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPFTM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPLIP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPMCF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPMDC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPNAP",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPPAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPPED",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPPOM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPPRM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPTOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPVLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPWDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAPWEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NAUNAU",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWDMAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWDNWD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "NWK101",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWK114",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKAAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKABC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKAIT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKCCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKCHW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKCLL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKELD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKFLV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKFLW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKFRL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKGAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKGLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKGLS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHBE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHBS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHT1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHTV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKHWC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKJEF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKKAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKKNO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKKNV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKLBR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKLGV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMDP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMNP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMNR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMRH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKMRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKN2W",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKNAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKNRR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKNWK",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPDP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPLL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPME",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPMN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPNC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPNP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPOA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPOM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPTN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPVP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKPWP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKRAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKRBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKRBV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKREE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKRNV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKRPR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSBE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSBW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSMI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSNT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSRM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKSTO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKTCL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKTRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKTRU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKTUT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWLP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWMP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWKWTP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOAFA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOARR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOBEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOBHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOBIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOBIS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCHM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCHY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCSP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOCSS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWODEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWODVA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOELL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFBN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFCA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFEW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOFPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOHEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOHQ2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOKST",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOLIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMAD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMMM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMPN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOMRR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWONDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWONWO",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOOMA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPET",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPIK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPIP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPIR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPLN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOPRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWORAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOREO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWORSC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWORVR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOSCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOTAM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOWEH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOWIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWOYNK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPADM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPAPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPBCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPBDP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPBLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPBON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPCGD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPCGR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPDAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPDDP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPDET",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPDPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPEDE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPEUG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPFCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPFNR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPFOS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPGRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPHCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPHEP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPJDA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPLCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPLGD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPLOP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPLPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPMOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPNBE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPNWP",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPPMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPPOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPPPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPSPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPTDD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPVAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPWCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWPYAQ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSAFA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSAFR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSALE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSAPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSARP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSAUP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSCJD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSCOE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSFBO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSFTL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSHHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSHOQ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSJBL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSLIB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSMAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSMTH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSMUD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSNFR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSNWS",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSRGO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSSHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSSPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSSPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSVAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWSYTC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWBOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWCLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWCOE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWCPN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWDPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWDWO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWFPN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWGRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWHPN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWHPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWICE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWIDA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWLIT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWLOG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWLUC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWMCN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWMIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWNWW",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWPAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "NWWWPN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POA1PC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POABTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POACHN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POACHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POACJS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POACPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POADJT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POADWT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAELN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAFBK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAFTG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAFTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAFTW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAHFS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAJNU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAKNI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POALSS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POAPOA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POARRY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POASRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "PODPOD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "POFCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFFHR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFKRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFKRY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFMRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFNRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFP2R",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFPOF",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFPRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POFSRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH110",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH155",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH214",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH223",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH252",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POH449",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHASR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHC2F",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHCAB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHCPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHFDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHGUA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHJPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHKEE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHKRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHNSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHPOH",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHPTA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHSBA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHSBM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POHTRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJKRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJMRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJOKI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJPOJ",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJSRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJWAK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJYKS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "POJYKT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "PRTNAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "PRTSAM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "RMCPIT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACAIK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACFTJ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACJBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACRBA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACRNE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACRNW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACSAC",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACTNK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACTOH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SACTOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SADCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SADRFC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SADSAD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "SAJANT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJC2T",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJC44",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJC6T",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJCAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJCHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJCLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJCOC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJCPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJDWA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJFNS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJFTM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJGAI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJGUN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJH10",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJHCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "sajip1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "sajip3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMER",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMHT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMIA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMLB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJMRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJNFA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJORT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJPAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJPAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJPEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJPIC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJPML",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "sajre1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJRTS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSAJ",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSDD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSEB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSFA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSFO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSLL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJSVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJTAM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJTRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJWEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJWNC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJWPF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAJWVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAM43C",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMABL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMACF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMACG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMALL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMAMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMAMO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMANN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMAPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMARL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBBH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBEV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBFE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBIR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBLK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBRB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBRW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMBUF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCEB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCLK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCME",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCNC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCOF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCPM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDEM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDLK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDLM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDMG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMDTO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMECD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMEGL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMEGN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMEPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMERA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMERO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMESP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFAE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFBI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFKP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFOT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFSP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFT8",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFTM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMFUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMGHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMGLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMGUL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHBG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHNT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHOM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHPD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMHUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMIRV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMJFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMJON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMJPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMJWH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMJWL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMKAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMKEE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMKIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMLMT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMAX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMBH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMCE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMFE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMFR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMMRF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMNBG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMNGA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMNRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMOKA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMOLV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPGC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMPRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRDD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMREA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRED",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRES",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRMO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRND",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMRSC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSAA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSAM",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSDB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSEM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSFY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSHA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSHE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSOC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMSYD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMTBC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMTCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMTRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMTUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMTYN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMVCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMVPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWBG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWFG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWGS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWPL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMWTC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAMYRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASALB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASBDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASBHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASCCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASCDU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASCLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASCPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASDOB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASEMU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASENH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASERA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFBE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFBF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFBR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFFR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFGI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFGO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFST",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASFTB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASHCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASHPT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASHUN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASHWL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASLDU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASMCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASMED",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASMOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASPCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASPCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASPDU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASREG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASROB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASRPM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASRRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASRUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASSAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASSAS",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASSCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASSEY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASTHU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASTLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASTPM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASWAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASWCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SASWDU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWAVL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWCRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWENG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWEYD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWFDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWJDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWJKP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWJKV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWLD1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWLD2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWLD3",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWMHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWMOT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWPDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWPFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWPVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWRAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWSAW",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWSPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWVCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWVMN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWVSL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWWDR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWWNS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SAWWSH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAABI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPACAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPACHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPADUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAELP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAHOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAJMD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAKIR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPALAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPALOS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPANCH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPAPUE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPASAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPASPA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPATRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPDSPD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "SPKBEA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKBLB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKBOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKBRY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKCMA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKCRS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKDAB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKEAS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKENG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKFHL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKFOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKFRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKGRJ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKHEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKHIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKHPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKISA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKKAW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKMAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKMAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKMBR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKMON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKNHO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKPAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKPFL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKRED",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKREN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSPK",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSTA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSTG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKSUC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKTRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPKVAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLALM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLAPV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLBDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLCAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLCCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLCRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLEDW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLELM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLENC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLFDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLFTH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLFTI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLHDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLIHC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLIRW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLLLV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLLON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLLUK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLMAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLNEL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLPAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLPRA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLPTC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLPTR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLRHD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLRRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSAD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSDM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSDO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSFD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSGS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLSPL",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLTRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLTUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLVAH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLVAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLVEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPLYUP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNEUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNJMP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNMEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNMOT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNSON",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SPNSPN",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWDEPA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWDSWD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "SWFABH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFACG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFBAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFBCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFBEN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFBOS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCBP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCCC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFCRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFDPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFDYE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFEAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFEFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFELG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFEPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFFBH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFFHH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFFSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFGEO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFGNG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFGPV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFHAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFHFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFHOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFJOE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFJPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFKEH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLAV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLEW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLMR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLOP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFLUG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFMCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFMFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFMRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFMS1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFMUG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFNVM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFPCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFPFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFPLC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFPPP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFPRO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRCK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRED",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRPK",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFRWP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSAP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSCD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSMC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSMV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSRB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSRP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSTI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFSWF",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTBS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTDP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTEX",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTGE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTHR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFTOW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFUPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWAC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWCG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWFB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWFG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWHP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWLG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWPG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFWSA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWFYCP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGABD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGBAY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGBRZ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGCCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGCCS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGCOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGCOO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGFRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGISA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGMOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGPOA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGSWG",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWGWAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLAPF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLBEA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLBLU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLBPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLBPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLBSP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLCLE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDAV",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDEQ",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDIE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDLD",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDMT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLDPE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLED4",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLFCE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLGFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLGRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLGVC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLHAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLLD2",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLLD5",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLLRC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLMIL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLMOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLMPL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLMUR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLND1",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLNIM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLNLR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLNOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLOCR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLOFO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLORM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLOZA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLPBM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLPIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLRUS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLSWL",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLTAB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLTOA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLTRI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLTSB",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLTSF",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLULA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLWRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWLZPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTALT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTBBH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTBHI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTCAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTCOP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTCOR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTCOU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTELA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTEPO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTFAL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTFGL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTFMP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTFSL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTFSR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTHEY",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTHUG",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTKAO",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTKAW",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTKLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTKPH",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTL14",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTL15",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTL16",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTL17",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTL18",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTMCA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTMLA",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTMTE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTOOL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTPAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTPAT",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTPIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTPRE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTRKL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTRKP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTSAR",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTSHE",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTSKI",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTSWT",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTIN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTKL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTKP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTRU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTXL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTTXP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTVAN",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTWAU",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTWFL",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTWFP",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "SWTWIS",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "TAATAA",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "TADTAD",
+		"IsDistrictSite": true,
+		"IsDivisionSite": true
+	},
+	{
+		"SiteCodePc": "TAMTAM",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "UITUIT",
+		"IsDistrictSite": true,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "WADDEC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "WADMCM",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	},
+	{
+		"SiteCodePc": "WPCWPC",
+		"IsDistrictSite": false,
+		"IsDivisionSite": false
+	}
+]

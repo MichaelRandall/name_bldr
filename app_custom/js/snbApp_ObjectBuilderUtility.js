@@ -1,27 +1,8 @@
 var snbApp = window.snbApp || {};
 snbApp.objectbuilderutility = (function () {
-    function formatItemCode(itemCode, eventType){
-		if(eventType !== 'change'){ //for load event
-			var pattern = /^CE/;
-			var result = pattern.test(itemCode);
-			if(result){
-				return itemCode.slice(2);
-			}else{
-				return itemCode.slice(0,3);
-			}
-		}else{ //for change event
-			var pattern = /^CE/;
-			var result = pattern.test(itemCode);
-			if(result){
-				return itemCode.slice(2);
-			}else{
-				return itemCode.slice(3);
-			}
-		}	
-	}
     
 	return{
-        buildObjectFields: function(returnedObj, listItem){ //results:returnedObj, prevItem:listItem
+        buildObjectFields: function(resultsObj, listItem){ //results:resultsObj, prevItem:listItem
             //***
             //For SharePoint list data
             //***
@@ -29,7 +10,7 @@ snbApp.objectbuilderutility = (function () {
 				var theList = listItem.listName;
 				var firstQueryParam = listItem.listObj.codeDigits;
 				var secondQueryParam = listItem.listObj.codeDescription;
-				var returnedItems = returnedObj.d.results;
+				var returnedItems = resultsObj.d.results;
 				var bigStringOptions = "";
 				
 				//regex to search for SecondaryFunctionCodes in list names
@@ -70,15 +51,16 @@ snbApp.objectbuilderutility = (function () {
 			} else {
 				var theList = listItem.listName;
 				var bigStringOptions = "<option value='0' disabled selected>Select Option</option>";
-				var returnedItems = returnedObj.value;
+				var returnedItems = resultsObj.value;
 				
 				for(var i = 0; i < returnedItems.length; i++){
 				    
+					//need to identify unique values using only the first 3 digits of SiteCodePc and use those only to build the operational unit list
+					//after we have identified the unique items, we need to populate the list
 					var item = returnedItems[i];
-					//replace Code with SiteCodePc
 					
 					    //***
-					    //change event type means the user selected a field
+					    //change event type means the user selected a field, indicated by 'siteCodeChange' - refers to siteCode for change event
                         //***
 						if(listItem.eventType === "change"){
 						    var siteCodeChange = item.SiteCodePc;
@@ -91,17 +73,21 @@ snbApp.objectbuilderutility = (function () {
 							snbApp.formmanager.buildSelectSiteLocations(bigStringOptions);
 							
 						//***
-						//load event which means this happens when the page is loaded
+						//load event which means this happens when the page is loaded, indicated by 'siteCodeLoad' - refers to siteCode for load event
                         //***
 						}else{
 						    
 						    var siteCodeLoad = item.SiteCodePc;
 						    if (typeof siteCodeLoad === "string" & siteCodeLoad != "null") {
-						        var siteCodeLoad = siteCodeLoad.length < 4 ? siteCodeLoad : siteCodeLoad.slice(0, 3);
+								//checks if siteCodePC is less than 4 characters then uses it otherwise it is 6 characters and we want only first 3
+								var firstThreeSiteCode = siteCodeLoad.slice(0, 3);
+								var lastThreeSiteCode = siteCodeLoad.slice(3,siteCodeLoad.length);
+								if(firstThreeSiteCode === lastThreeSiteCode){
+									var siteCodeLoad = firstThreeSiteCode;
+									bigStringOptions += "<option value='" + item.Id + "' data-code='" + siteCodeLoad + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + siteCodeLoad + ") " + item.Name + "</option>";
+								}
 						    }
 						 
-							bigStringOptions += "<option value='" + item.Id + "' data-code='" + siteCodeLoad + "' data-isDivSite='" + item.IsDivisionSite + "' data-isDistSite='" + item.IsDistrictSite + "' data-divID='" + item.DivisionSiteId + "' data-distID='" + item.DistrictSiteId + "'>(" + siteCodeLoad + ") " + item.Name + "</option>";
-							
 							snbApp.optionsobj.updateFunctionOrActivity(theList.toLowerCase(), bigStringOptions);	
 						}
 					

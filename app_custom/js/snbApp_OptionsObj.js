@@ -80,8 +80,7 @@ snbApp.optionsobj = (function () {
 					dc_offpremise_u = value;
 				    checker+=1;
 				    break;
-                }
-            
+            }
         },
         getOSObject:function(){
             //console.log("getOSObject has been called");
